@@ -1,6 +1,4 @@
-﻿using System.IO;
-
-namespace Kangaroo;
+﻿namespace Kangaroo;
 
 internal class Program
 {
