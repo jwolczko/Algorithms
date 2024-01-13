@@ -5,11 +5,23 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brackets", "Brackets\Brackets.csproj", "{11D7F91B-6263-42C0-8353-83700896908A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brackets.Tests", "Brackets.Tests\Brackets.Tests.csproj", "{66EE2576-4CD7-4789-8418-316991C055B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Brackets.Tests", "Brackets.Tests\Brackets.Tests.csproj", "{66EE2576-4CD7-4789-8418-316991C055B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "Palindrome\Palindrome.csproj", "{D729A066-C73B-436F-B74E-7851C66B2E8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Palindrome.csproj", "{D729A066-C73B-436F-B74E-7851C66B2E8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome.Tests", "Palindrome.Tests\Palindrome.Tests.csproj", "{41BC3F52-DA11-4EF5-ACDC-82E028C3A229}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome.Tests", "Palindrome.Tests\Palindrome.Tests.csproj", "{41BC3F52-DA11-4EF5-ACDC-82E028C3A229}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{DCB1E63A-F492-4388-A166-D6C3F946BF79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo.Teests", "Kangaroo.Teests\Kangaroo.Teests.csproj", "{D05DEECB-38B2-40CE-A0BB-87CFB17DAA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{E68044D2-985B-4BAA-9FA0-831CAB16AFE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets.Tests", "BetweenTwoSets.Tests\BetweenTwoSets.Tests.csproj", "{CE58BCB4-A061-41F2-9D60-3A944333F167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrange", "AppleAndOrange\AppleAndOrange.csproj", "{025244FC-2613-464A-BE4A-7CA6604317ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrange.Tests", "AppleAndOrange.Tests\AppleAndOrange.Tests.csproj", "{544CC4C8-B65B-4817-BB54-749AE199B469}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +45,30 @@ Global
 		{41BC3F52-DA11-4EF5-ACDC-82E028C3A229}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41BC3F52-DA11-4EF5-ACDC-82E028C3A229}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41BC3F52-DA11-4EF5-ACDC-82E028C3A229}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCB1E63A-F492-4388-A166-D6C3F946BF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCB1E63A-F492-4388-A166-D6C3F946BF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCB1E63A-F492-4388-A166-D6C3F946BF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCB1E63A-F492-4388-A166-D6C3F946BF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D05DEECB-38B2-40CE-A0BB-87CFB17DAA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D05DEECB-38B2-40CE-A0BB-87CFB17DAA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D05DEECB-38B2-40CE-A0BB-87CFB17DAA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D05DEECB-38B2-40CE-A0BB-87CFB17DAA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68044D2-985B-4BAA-9FA0-831CAB16AFE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68044D2-985B-4BAA-9FA0-831CAB16AFE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68044D2-985B-4BAA-9FA0-831CAB16AFE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68044D2-985B-4BAA-9FA0-831CAB16AFE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE58BCB4-A061-41F2-9D60-3A944333F167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE58BCB4-A061-41F2-9D60-3A944333F167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE58BCB4-A061-41F2-9D60-3A944333F167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE58BCB4-A061-41F2-9D60-3A944333F167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025244FC-2613-464A-BE4A-7CA6604317ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025244FC-2613-464A-BE4A-7CA6604317ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025244FC-2613-464A-BE4A-7CA6604317ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025244FC-2613-464A-BE4A-7CA6604317ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544CC4C8-B65B-4817-BB54-749AE199B469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544CC4C8-B65B-4817-BB54-749AE199B469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544CC4C8-B65B-4817-BB54-749AE199B469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544CC4C8-B65B-4817-BB54-749AE199B469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
