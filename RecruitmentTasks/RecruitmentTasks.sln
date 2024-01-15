@@ -35,6 +35,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquilibriumIndex", "Equilib
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestOscillatingSlice", "LargestOscillatingSlice\LargestOscillatingSlice.csproj", "{971433DE-BA8A-4C65-A369-F11D7FAF1DB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalCostToDivideChain", "MinimalCostToDivideChain\MinimalCostToDivideChain.csproj", "{923D0DDC-B608-4092-9A74-503C34A39FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCollinearTriplets", "CountCollinearTriplets\CountCollinearTriplets.csproj", "{885C895D-32DB-47E0-8ADC-0101DA7511B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeInternalNodeCounter", "TreeInternalNodeCounter\TreeInternalNodeCounter.csproj", "{ABFB2488-2CC5-4542-920C-3199CFA8C439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackspaceStringProcessor", "BackspaceStringProcessor\BackspaceStringProcessor.csproj", "{E3C76AC6-2D0D-4BDB-8E2A-098A253AE137}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTraversal", "TreeTraversal\TreeTraversal.csproj", "{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +111,26 @@ Global
 		{971433DE-BA8A-4C65-A369-F11D7FAF1DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{971433DE-BA8A-4C65-A369-F11D7FAF1DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{971433DE-BA8A-4C65-A369-F11D7FAF1DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923D0DDC-B608-4092-9A74-503C34A39FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923D0DDC-B608-4092-9A74-503C34A39FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923D0DDC-B608-4092-9A74-503C34A39FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923D0DDC-B608-4092-9A74-503C34A39FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{885C895D-32DB-47E0-8ADC-0101DA7511B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885C895D-32DB-47E0-8ADC-0101DA7511B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885C895D-32DB-47E0-8ADC-0101DA7511B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885C895D-32DB-47E0-8ADC-0101DA7511B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFB2488-2CC5-4542-920C-3199CFA8C439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFB2488-2CC5-4542-920C-3199CFA8C439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFB2488-2CC5-4542-920C-3199CFA8C439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFB2488-2CC5-4542-920C-3199CFA8C439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C76AC6-2D0D-4BDB-8E2A-098A253AE137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C76AC6-2D0D-4BDB-8E2A-098A253AE137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C76AC6-2D0D-4BDB-8E2A-098A253AE137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C76AC6-2D0D-4BDB-8E2A-098A253AE137}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
