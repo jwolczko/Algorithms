@@ -1,0 +1,3 @@
+﻿Problem: Given a matrix of M x N, find all of the islands.
+Definition: An island is any collection of "1" cells connected with its neighbors (all 8 surrounding cells, vertical/horizontal/diagonal)
+Assumption: The matrix is surrounded by water/"0" cells, i.e.no islands wrap
