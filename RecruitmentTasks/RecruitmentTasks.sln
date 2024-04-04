@@ -11,39 +11,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome", "Palindrome\Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome.Tests", "Palindrome.Tests\Palindrome.Tests.csproj", "{41BC3F52-DA11-4EF5-ACDC-82E028C3A229}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{DCB1E63A-F492-4388-A166-D6C3F946BF79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kangaroo", "Kangaroo\Kangaroo.csproj", "{DCB1E63A-F492-4388-A166-D6C3F946BF79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kangaroo.Teests", "Kangaroo.Teests\Kangaroo.Teests.csproj", "{D05DEECB-38B2-40CE-A0BB-87CFB17DAA61}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kangaroo.Teests", "Kangaroo.Teests\Kangaroo.Teests.csproj", "{D05DEECB-38B2-40CE-A0BB-87CFB17DAA61}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{E68044D2-985B-4BAA-9FA0-831CAB16AFE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetweenTwoSets", "BetweenTwoSets\BetweenTwoSets.csproj", "{E68044D2-985B-4BAA-9FA0-831CAB16AFE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetweenTwoSets.Tests", "BetweenTwoSets.Tests\BetweenTwoSets.Tests.csproj", "{CE58BCB4-A061-41F2-9D60-3A944333F167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BetweenTwoSets.Tests", "BetweenTwoSets.Tests\BetweenTwoSets.Tests.csproj", "{CE58BCB4-A061-41F2-9D60-3A944333F167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrange", "AppleAndOrange\AppleAndOrange.csproj", "{025244FC-2613-464A-BE4A-7CA6604317ED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleAndOrange", "AppleAndOrange\AppleAndOrange.csproj", "{025244FC-2613-464A-BE4A-7CA6604317ED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppleAndOrange.Tests", "AppleAndOrange.Tests\AppleAndOrange.Tests.csproj", "{544CC4C8-B65B-4817-BB54-749AE199B469}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppleAndOrange.Tests", "AppleAndOrange.Tests\AppleAndOrange.Tests.csproj", "{544CC4C8-B65B-4817-BB54-749AE199B469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicAquareForming", "MagicAquareForming\MagicAquareForming.csproj", "{738BC832-804E-4E10-9A60-12322C78231C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicAquareForming", "MagicAquareForming\MagicAquareForming.csproj", "{738BC832-804E-4E10-9A60-12322C78231C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicAquareForming.Test", "MagicAquareForming.Test\MagicAquareForming.Test.csproj", "{589CD954-6CBA-4923-AC23-DF88B3D132B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicAquareForming.Test", "MagicAquareForming.Test\MagicAquareForming.Test.csproj", "{589CD954-6CBA-4923-AC23-DF88B3D132B5}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{964E42F8-35DE-4A23-BA3C-D06F93662C36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DayOfTheProgramme", "DayOfTheProgramme\DayOfTheProgramme.csproj", "{263798F3-8F28-4FC6-A5E8-8A5593A49548}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DayOfTheProgramme", "DayOfTheProgramme\DayOfTheProgramme.csproj", "{263798F3-8F28-4FC6-A5E8-8A5593A49548}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EquilibriumIndex", "EquilibriumIndex\EquilibriumIndex.csproj", "{77D9CE04-050A-449F-8165-FFAA71E526A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EquilibriumIndex", "EquilibriumIndex\EquilibriumIndex.csproj", "{77D9CE04-050A-449F-8165-FFAA71E526A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestOscillatingSlice", "LargestOscillatingSlice\LargestOscillatingSlice.csproj", "{971433DE-BA8A-4C65-A369-F11D7FAF1DB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LargestOscillatingSlice", "LargestOscillatingSlice\LargestOscillatingSlice.csproj", "{971433DE-BA8A-4C65-A369-F11D7FAF1DB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimalCostToDivideChain", "MinimalCostToDivideChain\MinimalCostToDivideChain.csproj", "{923D0DDC-B608-4092-9A74-503C34A39FD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimalCostToDivideChain", "MinimalCostToDivideChain\MinimalCostToDivideChain.csproj", "{923D0DDC-B608-4092-9A74-503C34A39FD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCollinearTriplets", "CountCollinearTriplets\CountCollinearTriplets.csproj", "{885C895D-32DB-47E0-8ADC-0101DA7511B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountCollinearTriplets", "CountCollinearTriplets\CountCollinearTriplets.csproj", "{885C895D-32DB-47E0-8ADC-0101DA7511B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeInternalNodeCounter", "TreeInternalNodeCounter\TreeInternalNodeCounter.csproj", "{ABFB2488-2CC5-4542-920C-3199CFA8C439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeInternalNodeCounter", "TreeInternalNodeCounter\TreeInternalNodeCounter.csproj", "{ABFB2488-2CC5-4542-920C-3199CFA8C439}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackspaceStringProcessor", "BackspaceStringProcessor\BackspaceStringProcessor.csproj", "{E3C76AC6-2D0D-4BDB-8E2A-098A253AE137}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BackspaceStringProcessor", "BackspaceStringProcessor\BackspaceStringProcessor.csproj", "{E3C76AC6-2D0D-4BDB-8E2A-098A253AE137}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeTraversal", "TreeTraversal\TreeTraversal.csproj", "{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeTraversal", "TreeTraversal\TreeTraversal.csproj", "{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheIslands", "FindTheIslands\FindTheIslands.csproj", "{9B1DC229-FB0B-4369-9F32-3F3FB29CC6C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +133,10 @@ Global
 		{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9B64C54-1FB6-47FE-A90C-41314AF92D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B1DC229-FB0B-4369-9F32-3F3FB29CC6C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B1DC229-FB0B-4369-9F32-3F3FB29CC6C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B1DC229-FB0B-4369-9F32-3F3FB29CC6C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B1DC229-FB0B-4369-9F32-3F3FB29CC6C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
